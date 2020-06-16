@@ -77,12 +77,7 @@ WSGI_APPLICATION = 'Red_de_Empleo.wsgi.application'
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'djongo',
-        'NAME': 'Red_empleo',
-    }
-}
+
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
